@@ -1,0 +1,13 @@
+package:
+  name: env-cpath
+  version: "0.1.0"
+
+source:
+  path: .
+
+build:
+  noarch: generic
+
+about:
+  license: MIT
+  license_file: LICENSE.txt

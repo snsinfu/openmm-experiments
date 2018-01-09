@@ -1,0 +1,20 @@
+{
+  "info": {},
+  "packages": {
+    "env-cpath-0.1.0-h55c5472_0.tar.bz2": {
+      "build": "h55c5472_0",
+      "build_number": 0,
+      "depends": [],
+      "license": "MIT",
+      "md5": "e449f5fcc9e503b97a30ee9a1065c91a",
+      "name": "env-cpath",
+      "noarch": "generic",
+      "sha256": "5415bd5abb55059cb4b2ff3d483dd354e6b14a483e8efc18e4c7a3c8002f2b4e",
+      "sig": null,
+      "size": 3248,
+      "subdir": "noarch",
+      "timestamp": 1515481650369,
+      "version": "0.1.0"
+    }
+  }
+}

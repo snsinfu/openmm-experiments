@@ -1,0 +1,11 @@
+name:
+  openmm-experiments
+
+channels:
+  - omnia             # openmm
+  - ./env-cpath/build # env-cpath
+
+dependencies:
+  - python=3
+  - openmm
+  - env-cpath
